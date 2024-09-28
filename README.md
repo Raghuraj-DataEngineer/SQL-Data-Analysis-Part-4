@@ -1,6 +1,8 @@
 # SQL-Data-Analysis-Part-4
 SQL Project for Data Analysis using Oracle Database-Part 4
 
+# Project Description
+
 ### What is Dataset Analysis? 
 Dataset Analysis is defined as manipulating or processing unstructured or raw data to draw valuable insights and conclusions that will help derive critical decisions that add some business value. The dataset analysis process is followed by organizing the dataset, transforming the dataset, visualizing the dataset, and finally modeling the dataset to derive predictions for solving the business problems, making informed decisions, and effectively planning for the future.
 
